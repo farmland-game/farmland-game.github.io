@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1d30ed5b.chunk.css",
-    "main.js": "/static/js/main.57d5e3ff.chunk.js",
-    "main.js.map": "/static/js/main.57d5e3ff.chunk.js.map",
+    "main.js": "/static/js/main.4740e50c.chunk.js",
+    "main.js.map": "/static/js/main.4740e50c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aa32c3e5.js",
     "runtime-main.js.map": "/static/js/runtime-main.aa32c3e5.js.map",
     "static/js/2.5aade8bd.chunk.js": "/static/js/2.5aade8bd.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/index.html",
     "static/css/main.1d30ed5b.chunk.css.map": "/static/css/main.1d30ed5b.chunk.css.map",
     "static/js/2.5aade8bd.chunk.js.LICENSE.txt": "/static/js/2.5aade8bd.chunk.js.LICENSE.txt",
-    "static/media/corn.c9817b99.png": "/static/media/corn.c9817b99.png",
+    "static/media/corn.9d7e463e.png": "/static/media/corn.9d7e463e.png",
     "static/media/Landing.scss": "/static/media/field.7be79719.png",
     "static/media/Farm.scss": "/static/media/trees.b3de2906.png"
   },
@@ -18,6 +18,6 @@
     "static/js/runtime-main.aa32c3e5.js",
     "static/js/2.5aade8bd.chunk.js",
     "static/css/main.1d30ed5b.chunk.css",
-    "static/js/main.57d5e3ff.chunk.js"
+    "static/js/main.4740e50c.chunk.js"
   ]
 }
