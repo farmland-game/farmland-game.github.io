@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.92ba7857.chunk.css",
-    "main.js": "/static/js/main.b768d0b9.chunk.js",
-    "main.js.map": "/static/js/main.b768d0b9.chunk.js.map",
+    "main.js": "/static/js/main.64695689.chunk.js",
+    "main.js.map": "/static/js/main.64695689.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aa32c3e5.js",
     "runtime-main.js.map": "/static/js/runtime-main.aa32c3e5.js.map",
-    "static/js/2.d69b16dc.chunk.js": "/static/js/2.d69b16dc.chunk.js",
-    "static/js/2.d69b16dc.chunk.js.map": "/static/js/2.d69b16dc.chunk.js.map",
+    "static/js/2.5aade8bd.chunk.js": "/static/js/2.5aade8bd.chunk.js",
+    "static/js/2.5aade8bd.chunk.js.map": "/static/js/2.5aade8bd.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.92ba7857.chunk.css.map": "/static/css/main.92ba7857.chunk.css.map",
-    "static/js/2.d69b16dc.chunk.js.LICENSE.txt": "/static/js/2.d69b16dc.chunk.js.LICENSE.txt",
+    "static/js/2.5aade8bd.chunk.js.LICENSE.txt": "/static/js/2.5aade8bd.chunk.js.LICENSE.txt",
     "static/media/corn.47af0755.png": "/static/media/corn.47af0755.png",
     "static/media/Landing.scss": "/static/media/field.7be79719.png",
     "static/media/Farm.scss": "/static/media/trees.b3de2906.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aa32c3e5.js",
-    "static/js/2.d69b16dc.chunk.js",
+    "static/js/2.5aade8bd.chunk.js",
     "static/css/main.92ba7857.chunk.css",
-    "static/js/main.b768d0b9.chunk.js"
+    "static/js/main.64695689.chunk.js"
   ]
 }
