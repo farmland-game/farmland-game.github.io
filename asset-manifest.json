@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d4a303f.chunk.css",
-    "main.js": "/static/js/main.0b9d58dc.chunk.js",
-    "main.js.map": "/static/js/main.0b9d58dc.chunk.js.map",
+    "main.css": "/static/css/main.549a7c77.chunk.css",
+    "main.js": "/static/js/main.2d5fcc84.chunk.js",
+    "main.js.map": "/static/js/main.2d5fcc84.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.480bccc3.js",
     "runtime-main.js.map": "/static/js/runtime-main.480bccc3.js.map",
     "static/css/2.9dfe08af.chunk.css": "/static/css/2.9dfe08af.chunk.css",
@@ -10,9 +10,10 @@
     "static/js/2.b85f33a9.chunk.js.map": "/static/js/2.b85f33a9.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9dfe08af.chunk.css.map": "/static/css/2.9dfe08af.chunk.css.map",
-    "static/css/main.8d4a303f.chunk.css.map": "/static/css/main.8d4a303f.chunk.css.map",
+    "static/css/main.549a7c77.chunk.css.map": "/static/css/main.549a7c77.chunk.css.map",
     "static/js/2.b85f33a9.chunk.js.LICENSE.txt": "/static/js/2.b85f33a9.chunk.js.LICENSE.txt",
     "static/media/LAND-icon.3f1622db.png": "/static/media/LAND-icon.3f1622db.png",
+    "static/media/arbitrum-icon.66c5dc8b.png": "/static/media/arbitrum-icon.66c5dc8b.png",
     "static/media/corn.47af0755.png": "/static/media/corn.47af0755.png",
     "static/media/index.scss": "/static/media/fa-solid-900.efbd5d20.eot",
     "static/media/Landing.scss": "/static/media/field.7be79719.png",
@@ -23,7 +24,7 @@
     "static/js/runtime-main.480bccc3.js",
     "static/css/2.9dfe08af.chunk.css",
     "static/js/2.b85f33a9.chunk.js",
-    "static/css/main.8d4a303f.chunk.css",
-    "static/js/main.0b9d58dc.chunk.js"
+    "static/css/main.549a7c77.chunk.css",
+    "static/js/main.2d5fcc84.chunk.js"
   ]
 }
