@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.549a7c77.chunk.css",
-    "main.js": "/static/js/main.53703644.chunk.js",
-    "main.js.map": "/static/js/main.53703644.chunk.js.map",
+    "main.css": "/static/css/main.4b0d9bf1.chunk.css",
+    "main.js": "/static/js/main.61da8d26.chunk.js",
+    "main.js.map": "/static/js/main.61da8d26.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.480bccc3.js",
     "runtime-main.js.map": "/static/js/runtime-main.480bccc3.js.map",
     "static/css/2.9dfe08af.chunk.css": "/static/css/2.9dfe08af.chunk.css",
-    "static/js/2.c84cd5f2.chunk.js": "/static/js/2.c84cd5f2.chunk.js",
-    "static/js/2.c84cd5f2.chunk.js.map": "/static/js/2.c84cd5f2.chunk.js.map",
+    "static/js/2.55c1f193.chunk.js": "/static/js/2.55c1f193.chunk.js",
+    "static/js/2.55c1f193.chunk.js.map": "/static/js/2.55c1f193.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9dfe08af.chunk.css.map": "/static/css/2.9dfe08af.chunk.css.map",
-    "static/css/main.549a7c77.chunk.css.map": "/static/css/main.549a7c77.chunk.css.map",
-    "static/js/2.c84cd5f2.chunk.js.LICENSE.txt": "/static/js/2.c84cd5f2.chunk.js.LICENSE.txt",
-    "static/media/LAND-icon.3f1622db.png": "/static/media/LAND-icon.3f1622db.png",
+    "static/css/main.4b0d9bf1.chunk.css.map": "/static/css/main.4b0d9bf1.chunk.css.map",
+    "static/js/2.55c1f193.chunk.js.LICENSE.txt": "/static/js/2.55c1f193.chunk.js.LICENSE.txt",
+    "static/media/3.e01493a4.png": "/static/media/3.e01493a4.png",
+    "static/media/4.ce9a1ff6.png": "/static/media/4.ce9a1ff6.png",
+    "static/media/7.da60715e.png": "/static/media/7.da60715e.png",
+    "static/media/8.bf4d9fc6.png": "/static/media/8.bf4d9fc6.png",
     "static/media/arbitrum-icon.66c5dc8b.png": "/static/media/arbitrum-icon.66c5dc8b.png",
     "static/media/corn.47af0755.png": "/static/media/corn.47af0755.png",
     "static/media/index.scss": "/static/media/fa-solid-900.efbd5d20.eot",
-    "static/media/Landing.scss": "/static/media/field.7be79719.png",
-    "static/media/spade.56ac3b6e.png": "/static/media/spade.56ac3b6e.png",
-    "static/media/Farm.scss": "/static/media/trees.b3de2906.png"
+    "static/media/spade.56ac3b6e.png": "/static/media/spade.56ac3b6e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.480bccc3.js",
     "static/css/2.9dfe08af.chunk.css",
-    "static/js/2.c84cd5f2.chunk.js",
-    "static/css/main.549a7c77.chunk.css",
-    "static/js/main.53703644.chunk.js"
+    "static/js/2.55c1f193.chunk.js",
+    "static/css/main.4b0d9bf1.chunk.css",
+    "static/js/main.61da8d26.chunk.js"
   ]
 }
