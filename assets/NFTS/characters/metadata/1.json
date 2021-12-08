@@ -1,0 +1,71 @@
+{
+    "name": "Sparta",
+    "rarity": null,
+    "external_link": "https://farmland-game.github.io",
+    "image": "https://farmland-game.github.io/assets/NFTS/characters/images/1.png",
+    "description": null,
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0x07A0D3D0dCF81aF7dcCA77C947889137A82E46Fe",
+    "attributes": [
+        {
+            "id": 0,
+            "trait_type": "Special",
+            "value": "Founder"
+        },
+        {
+            "id": 1,
+            "trait_type": "Image",
+            "value": "Meta"
+        },
+        {
+            "id": 2,
+            "trait_type": "Sex",
+            "value": "Male"
+        },
+        {
+            "id": 3,
+            "trait_type": "Background",
+            "value": "Farmland Red"
+        },
+        {
+            "id": 4,
+            "trait_type": "Base",
+            "value": "Tan 1"
+        },
+        {
+            "id": 5,
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "id": 6,
+            "trait_type": "Mouth",
+            "value": "Heavey Stubble"
+        },
+        {
+            "id": 7,
+            "trait_type": "Hair",
+            "value": "Galidator Helmet"
+        },
+        {
+            "id": 8,
+            "trait_type": "Clothing",
+            "value": "Gladiator Armor & Cloak"
+        },
+        {
+            "id": 9,
+            "trait_type": "Feature",
+            "value": "None"
+        },
+        {
+            "id": 10,
+            "trait_type": "Image",
+            "value": "In the club"
+        },
+        {
+            "id": 11,
+            "trait_type": "Special",
+            "value": "Unique"
+        }
+    ]
+}

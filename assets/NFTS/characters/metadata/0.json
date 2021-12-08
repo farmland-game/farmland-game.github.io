@@ -1,0 +1,76 @@
+{
+    "name": "Hunter",
+    "rarity": null,
+    "external_link": "https://farmland-game.github.io",
+    "image": "https://farmland-game.github.io/assets/NFTS/characters/images/0.png",
+    "description": null,
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0x07A0D3D0dCF81aF7dcCA77C947889137A82E46Fe",
+    "attributes": [
+        {
+            "id": 0,
+            "trait_type": "Special",
+            "value": "Founder"
+        },
+        {
+            "id": 1,
+            "trait_type": "Sex",
+            "value": "Male"
+        },
+        {
+            "id": 2,
+            "trait_type": "Background",
+            "value": "Farmland"
+        },
+        {
+            "id": 3,
+            "trait_type": "Base",
+            "value": "Zombie"
+        },
+        {
+            "id": 4,
+            "trait_type": "Eyes",
+            "value": "Laser"
+        },
+        {
+            "id": 5,
+            "trait_type": "Mouth",
+            "value": "Zombie"
+        },
+        {
+            "id": 6,
+            "trait_type": "Hair",
+            "value": "Zombie"
+        },
+        {
+            "id": 7,
+            "trait_type": "Clothing",
+            "value": "Hoodie"
+        },
+        {
+            "id": 8,
+            "trait_type": "Feature",
+            "value": "None"
+        },
+        {
+            "id": 9,
+            "trait_type": "Special",
+            "value": "Unique"
+        },
+        {
+            "id": 10,
+            "trait_type": "Image",
+            "value": "In the club"
+        },
+        {
+            "id": 11,
+            "trait_type": "Image",
+            "value": "Meta"
+        },
+        {
+            "id": 12,
+            "trait_type": "Image",
+            "value": "Laser Eyes"
+        }
+    ]
+}
