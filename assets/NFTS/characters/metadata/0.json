@@ -1,9 +1,11 @@
 {
     "name": "Hunter",
-    "rarity": null,
-    "external_link": "https://farmland-game.github.io",
+    "external_url": "https://farmland-game.github.io",
+    "background_color": "000000",
+    "animation_url": null,
+    "youtube_url": null,
     "image": "https://farmland-game.github.io/assets/NFTS/characters/images/0.png",
-    "description": null,
+    "description": "A unique Farmland character",
     "seller_fee_basis_points": 100,
     "fee_recipient": "0x07A0D3D0dCF81aF7dcCA77C947889137A82E46Fe",
     "attributes": [
@@ -20,7 +22,7 @@
         {
             "id": 2,
             "trait_type": "Background",
-            "value": "Farmland"
+            "value": "Red Pill"
         },
         {
             "id": 3,
@@ -45,12 +47,12 @@
         {
             "id": 7,
             "trait_type": "Clothing",
-            "value": "Hoodie"
+            "value": "Blue Hoodie"
         },
         {
             "id": 8,
             "trait_type": "Feature",
-            "value": "None"
+            "value": "Blood"
         },
         {
             "id": 9,
@@ -65,7 +67,7 @@
         {
             "id": 11,
             "trait_type": "Image",
-            "value": "Meta"
+            "value": "Red Pill"
         },
         {
             "id": 12,

@@ -1,9 +1,11 @@
 {
     "name": "Sparta",
-    "rarity": null,
-    "external_link": "https://farmland-game.github.io",
+    "external_url": "https://farmland-game.github.io",
+    "background_color": "000000",
+    "animation_url": null,
+    "youtube_url": null,
     "image": "https://farmland-game.github.io/assets/NFTS/characters/images/1.png",
-    "description": null,
+    "description": "A unique Farmland character",
     "seller_fee_basis_points": 100,
     "fee_recipient": "0x07A0D3D0dCF81aF7dcCA77C947889137A82E46Fe",
     "attributes": [
@@ -40,7 +42,7 @@
         {
             "id": 6,
             "trait_type": "Mouth",
-            "value": "Heavey Stubble"
+            "value": "Heavy Stubble"
         },
         {
             "id": 7,
