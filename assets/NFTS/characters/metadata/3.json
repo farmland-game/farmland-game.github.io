@@ -11,7 +11,8 @@
     "attributes": [
         {
             "id": 0,
-            "trait_type": "Special",
+            "badge_type": "Special",
+            "trait_type": "Badge 1",
             "value": "Founder"
         },
         {
@@ -56,22 +57,26 @@
         },
         {
             "id": 9,
-            "trait_type": "Image",
+            "badge_type": "Image",
+            "trait_type": "Badge 2",
             "value": "In the club"
         },
         {
             "id": 10,
-            "trait_type": "Image",
+            "badge_type": "Image",
+            "trait_type": "Badge 3",
             "value": "Cyberpunk"
         },
         {
             "id": 11,
-            "trait_type": "Image",
+            "badge_type": "Image",
+            "trait_type": "Badge 4",
             "value": "Gamer"
         },
         {
             "id": 12,
-            "trait_type": "Image",
+            "badge_type": "Image",
+            "trait_type": "Badge 5",
             "value": "Laser Eyes"
         }
     ]

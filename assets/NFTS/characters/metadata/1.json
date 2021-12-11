@@ -11,12 +11,14 @@
     "attributes": [
         {
             "id": 0,
-            "trait_type": "Special",
+            "badge_type": "Special",
+            "trait_type": "Badge 1",
             "value": "Founder"
         },
         {
             "id": 1,
-            "trait_type": "Image",
+            "badge_type": "Special",
+            "trait_type": "Badge 2",
             "value": "Meta"
         },
         {
@@ -61,12 +63,14 @@
         },
         {
             "id": 10,
-            "trait_type": "Image",
+            "badge_type": "Image",
+            "trait_type": "Badge 3",
             "value": "In the club"
         },
         {
             "id": 11,
-            "trait_type": "Special",
+            "badge_type": "Special",
+            "trait_type": "Badge 4",
             "value": "Unique"
         }
     ]
