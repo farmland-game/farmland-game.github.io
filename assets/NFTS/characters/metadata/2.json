@@ -1,19 +1,18 @@
 {
     "name": "Dee",
-    "external_url": "https://farmland-game.github.io",
+    "external_url": "https://farmland-game.github.io/collectibles/character/2",
     "background_color": "000000",
     "animation_url": null,
     "youtube_url": null,
     "image": "https://farmland-game.github.io/assets/NFTS/characters/images/2.png",
-    "description": "A legendary Farmland character",
+    "description": "Farmland is a decentralized - Play to Earn - farming game running on Arbitrum and secured by Ethereum. Farmland Characters are core to the game, you can boost your farm yields by employing Characters as Farmers. In the future your Characters can be employed as Miners, Explorers, Hunters and more .... Buy Land, Employ a Farmer, Plant Corn, Harvest, Repeat!",
     "seller_fee_basis_points": 100,
-    "fee_recipient": "0x07A0D3D0dCF81aF7dcCA77C947889137A82E46Fe",
+    "fee_recipient": "0xC74956f14b1C0F5057404A8A26D3074924545dF8",
     "attributes": [
         {
             "id": 0,
-            "badge_type": "Special",
-            "trait_type": "Badge 1",
-            "value": "Founder"
+            "trait_type": "Badges",
+            "value": "Founder, Unique"
         },
         {
             "id": 1,

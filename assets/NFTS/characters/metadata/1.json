@@ -1,77 +1,58 @@
 {
     "name": "Sparta",
-    "external_url": "https://farmland-game.github.io",
+    "external_url": "https://farmland-game.github.io/collectibles/character/1",
     "background_color": "000000",
     "animation_url": null,
     "youtube_url": null,
     "image": "https://farmland-game.github.io/assets/NFTS/characters/images/1.png",
-    "description": "A unique Farmland character",
+    "description": "Farmland is a decentralized - Play to Earn - farming game running on Arbitrum and secured by Ethereum. Farmland Characters are core to the game, you can boost your farm yields by employing Characters as Farmers. In the future your Characters can be employed as Miners, Explorers, Hunters and more .... Buy Land, Employ a Farmer, Plant Corn, Harvest, Repeat!",
     "seller_fee_basis_points": 100,
-    "fee_recipient": "0x07A0D3D0dCF81aF7dcCA77C947889137A82E46Fe",
+    "fee_recipient": "0xC74956f14b1C0F5057404A8A26D3074924545dF8",
     "attributes": [
         {
             "id": 0,
-            "badge_type": "Special",
-            "trait_type": "Badge 1",
-            "value": "Founder"
+            "trait_type": "Badges",
+            "value": "Founder, Unique, In the club, Meta"
         },
         {
             "id": 1,
-            "badge_type": "Special",
-            "trait_type": "Badge 2",
-            "value": "Meta"
-        },
-        {
-            "id": 2,
             "trait_type": "Sex",
             "value": "Male"
         },
         {
-            "id": 3,
+            "id": 2,
             "trait_type": "Background",
             "value": "Farmland Red"
         },
         {
-            "id": 4,
+            "id": 3,
             "trait_type": "Base",
             "value": "Tan 1"
         },
         {
-            "id": 5,
+            "id": 4,
             "trait_type": "Eyes",
             "value": "Blue"
         },
         {
-            "id": 6,
+            "id": 5,
             "trait_type": "Mouth",
             "value": "Heavy Stubble"
         },
         {
-            "id": 7,
+            "id": 6,
             "trait_type": "Hair",
             "value": "Galidator Helmet"
         },
         {
-            "id": 8,
+            "id": 7,
             "trait_type": "Clothing",
             "value": "Gladiator Armor & Cloak"
         },
         {
-            "id": 9,
+            "id": 8,
             "trait_type": "Feature",
             "value": "None"
-        },
-        {
-            "id": 10,
-            "badge_type": "Image",
-            "trait_type": "Badge 3",
-            "value": "In the club"
-        },
-        {
-            "id": 11,
-            "badge_type": "Special",
-            "trait_type": "Badge 4",
-            "value": "Unique"
         }
     ]
 }
