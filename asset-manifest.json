@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.513dee7e.css",
-    "main.js": "./static/js/main.69529eb3.js",
+    "main.css": "./static/css/main.f1515ee7.css",
+    "main.js": "./static/js/main.be09b012.js",
     "static/media/farmland_v2.mp4": "./static/media/farmland_v2.3bdfd080f8fdac495344.mp4",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -22,7 +22,6 @@
     "static/media/unknown.png": "./static/media/unknown.112c44c2c7d94eec4d78.png",
     "static/media/arbitrum-icon.png": "./static/media/arbitrum-icon.66c5dc8bcffea9d7c67e.png",
     "static/media/saloonbg.png": "./static/media/saloonbg.887e38485397a4c87095.png",
-    "static/media/strawbg.png": "./static/media/strawbg.5f04e3103213af35ed7e.png",
     "static/media/corn.png": "./static/media/corn.47af0755a1155e118d1c.png",
     "static/media/poolsbg.png": "./static/media/poolsbg.30b1d2a372dfff8cd855.png",
     "static/media/farmbg.png": "./static/media/farmbg.634dd807c9880ab96fb6.png",
@@ -31,11 +30,11 @@
     "static/media/barnbg.png": "./static/media/barnbg.8ae25b59ef7145205c59.png",
     "static/media/land.png": "./static/media/land.62827f99abad8268716c.png",
     "index.html": "./index.html",
-    "main.513dee7e.css.map": "./static/css/main.513dee7e.css.map",
-    "main.69529eb3.js.map": "./static/js/main.69529eb3.js.map"
+    "main.f1515ee7.css.map": "./static/css/main.f1515ee7.css.map",
+    "main.be09b012.js.map": "./static/js/main.be09b012.js.map"
   },
   "entrypoints": [
-    "static/css/main.513dee7e.css",
-    "static/js/main.69529eb3.js"
+    "static/css/main.f1515ee7.css",
+    "static/js/main.be09b012.js"
   ]
 }
