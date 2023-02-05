@@ -1,1 +1,58 @@
-{"name":"Sal Bakey","background_color":"000000","external_url":"https://farmland-game.github.io/collectibles/character/320","animation_url":null,"youtube_url":null,"image":"https://farmland-game.github.io/assets/NFTS/characters/images/320.png","description":"Farmland is a decentralized - Play to Earn - farming game running on Arbitrum and secured by Ethereum. Farmland Characters are core to the game, you can boost your farm yields by employing Characters as Farmers. In the future your Characters can be employed as Miners, Explorers, Hunters and more .... Buy Land, Employ a Farmer, Plant Corn, Harvest, Repeat!","seller_fee_basis_points":100,"fee_recipient":"0xC74956f14b1C0F5057404A8A26D3074924545dF8","attributes":[{"id":0,"trait_type":"Badges","value":"None"},{"id":1,"trait_type":"Sex","value":"Male"},{"id":2,"trait_type":"Background","value":"Desert"},{"id":3,"trait_type":"Base","value":"Brown 2"},{"id":4,"trait_type":"Eyes","value":"Green Bushy Brows"},{"id":5,"trait_type":"Mouth","value":"Small"},{"id":6,"trait_type":"Hair","value":"Green Mohawk"},{"id":7,"trait_type":"Clothing","value":"Future"},{"id":8,"trait_type":"Feature","value":"None"}]}
+{
+    "name": "Sal Bakey",
+    "background_color": "000000",
+    "external_url": "https://farmlandgame.net/collectibles/character/320",
+    "animation_url": null,
+    "youtube_url": null,
+    "image": "https://farmlandgame.net/assets/NFTS/characters/images/320.png",
+    "description": "Farmland is a decentralized - Play to Earn - farming game running on Arbitrum and secured by Ethereum. Farmland Characters are core to the game, you can boost your farm yields by employing Characters as Farmers. In the future your Characters can be employed as Miners, Explorers, Hunters and more .... Buy Land, Employ a Farmer, Plant Corn, Harvest, Repeat!",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0xC74956f14b1C0F5057404A8A26D3074924545dF8",
+    "attributes": [
+        {
+            "id": 0,
+            "trait_type": "Badges",
+            "value": "None"
+        },
+        {
+            "id": 1,
+            "trait_type": "Sex",
+            "value": "Male"
+        },
+        {
+            "id": 2,
+            "trait_type": "Background",
+            "value": "Desert"
+        },
+        {
+            "id": 3,
+            "trait_type": "Base",
+            "value": "Brown 2"
+        },
+        {
+            "id": 4,
+            "trait_type": "Eyes",
+            "value": "Green Bushy Brows"
+        },
+        {
+            "id": 5,
+            "trait_type": "Mouth",
+            "value": "Small"
+        },
+        {
+            "id": 6,
+            "trait_type": "Hair",
+            "value": "Green Mohawk"
+        },
+        {
+            "id": 7,
+            "trait_type": "Clothing",
+            "value": "Future"
+        },
+        {
+            "id": 8,
+            "trait_type": "Feature",
+            "value": "None"
+        }
+    ]
+}
