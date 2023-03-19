@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e65a3674.css",
-    "main.js": "./static/js/main.33b459df.js",
+    "main.css": "./static/css/main.f6865344.css",
+    "main.js": "./static/js/main.f3dea8a7.js",
     "static/media/farmland_v2.mp4": "./static/media/farmland_v2.3bdfd080f8fdac495344.mp4",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -30,11 +30,11 @@
     "static/media/barnbg.png": "./static/media/barnbg.8ae25b59ef7145205c59.png",
     "static/media/land.png": "./static/media/land.62827f99abad8268716c.png",
     "index.html": "./index.html",
-    "main.e65a3674.css.map": "./static/css/main.e65a3674.css.map",
-    "main.33b459df.js.map": "./static/js/main.33b459df.js.map"
+    "main.f6865344.css.map": "./static/css/main.f6865344.css.map",
+    "main.f3dea8a7.js.map": "./static/js/main.f3dea8a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e65a3674.css",
-    "static/js/main.33b459df.js"
+    "static/css/main.f6865344.css",
+    "static/js/main.f3dea8a7.js"
   ]
 }
