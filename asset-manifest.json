@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.0891273c.css",
-    "main.js": "./static/js/main.fd5873ff.js",
+    "main.css": "./static/css/main.a6fb7b73.css",
+    "main.js": "./static/js/main.2f416504.js",
     "static/media/farmland_v2.mp4": "./static/media/farmland_v2.3bdfd080f8fdac495344.mp4",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -25,16 +25,17 @@
     "static/media/corn.png": "./static/media/corn.47af0755a1155e118d1c.png",
     "static/media/poolsbg.png": "./static/media/poolsbg.30b1d2a372dfff8cd855.png",
     "static/media/farmbg.png": "./static/media/farmbg.634dd807c9880ab96fb6.png",
+    "static/media/vitalik.jpg": "./static/media/vitalik.d1c2f4e2feaec91ff59f.jpg",
     "static/media/CORN-icon.png": "./static/media/CORN-icon.358f60826abbef1540c6.png",
     "static/media/walletbg.png": "./static/media/walletbg.e09846fff0dfb028cd3c.png",
     "static/media/barnbg.png": "./static/media/barnbg.8ae25b59ef7145205c59.png",
     "static/media/land.png": "./static/media/land.62827f99abad8268716c.png",
     "index.html": "./index.html",
-    "main.0891273c.css.map": "./static/css/main.0891273c.css.map",
-    "main.fd5873ff.js.map": "./static/js/main.fd5873ff.js.map"
+    "main.a6fb7b73.css.map": "./static/css/main.a6fb7b73.css.map",
+    "main.2f416504.js.map": "./static/js/main.2f416504.js.map"
   },
   "entrypoints": [
-    "static/css/main.0891273c.css",
-    "static/js/main.fd5873ff.js"
+    "static/css/main.a6fb7b73.css",
+    "static/js/main.2f416504.js"
   ]
 }
