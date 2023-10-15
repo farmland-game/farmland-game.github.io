@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.13b4cea6.css",
-    "main.js": "./static/js/main.1d9ad7d4.js",
+    "main.css": "./static/css/main.272c7a48.css",
+    "main.js": "./static/js/main.e7447afb.js",
     "static/media/farmland_v2.mp4": "./static/media/farmland_v2.3bdfd080f8fdac495344.mp4",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/woodbg.png": "./static/media/woodbg.84811d187d229c8ebcb7.png",
+    "static/media/box.png": "./static/media/box.92c86f4f3087b55d9a95.png",
     "static/media/fa-solid-900.eot": "./static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
     "static/media/4.png": "./static/media/4.ce9a1ff60b6064167d0c.png",
@@ -31,11 +32,11 @@
     "static/media/barnbg.png": "./static/media/barnbg.8ae25b59ef7145205c59.png",
     "static/media/land.png": "./static/media/land.62827f99abad8268716c.png",
     "index.html": "./index.html",
-    "main.13b4cea6.css.map": "./static/css/main.13b4cea6.css.map",
-    "main.1d9ad7d4.js.map": "./static/js/main.1d9ad7d4.js.map"
+    "main.272c7a48.css.map": "./static/css/main.272c7a48.css.map",
+    "main.e7447afb.js.map": "./static/js/main.e7447afb.js.map"
   },
   "entrypoints": [
-    "static/css/main.13b4cea6.css",
-    "static/js/main.1d9ad7d4.js"
+    "static/css/main.272c7a48.css",
+    "static/js/main.e7447afb.js"
   ]
 }
